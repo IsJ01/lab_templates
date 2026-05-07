@@ -1,1 +1,2 @@
-63:unique_ptr_tests_NOT_BUILT
+75:UniquePtrModifiers.ResetToNull
+84:TrackedTest.UniquePtrResetDestroys
